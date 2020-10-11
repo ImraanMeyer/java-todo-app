@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c350a61e-6373-4d43-9f70-e3afb7fe73fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1grwuHE3dUKxTt2cPg1P8ZBG9iS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.JAVA" />
+  </component>
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="todo-app-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="todo-app-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c350a61e-6373-4d43-9f70-e3afb7fe73fa" name="Default Changelist" comment="" />
+      <created>1598886239817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598886239817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="101" key="#Project_Structure" timestamp="1599678508597">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="101" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1599678508597" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598886489702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598886489702" />
+    <state x="690" y="207" key="FileChooserDialogImpl" timestamp="1599678541209">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="207" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1599678541209" />
+    <state width="1865" height="261" key="GridCell.Tab.0.bottom" timestamp="1598996053098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598996053098" />
+    <state width="1865" height="261" key="GridCell.Tab.0.center" timestamp="1598996053097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="261" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598996053097" />
+    <state width="1865" height="261" key="GridCell.Tab.0.left" timestamp="1598996053097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="261" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598996053097" />
+    <state width="1865" height="261" key="GridCell.Tab.0.right" timestamp="1598996053097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="261" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598996053097" />
+    <state width="1865" height="313" key="GridCell.Tab.1.bottom" timestamp="1598901192901">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="313" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598901192901" />
+    <state width="1865" height="313" key="GridCell.Tab.1.center" timestamp="1598901192901">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="313" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598901192901" />
+    <state width="1865" height="313" key="GridCell.Tab.1.left" timestamp="1598901192901">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="313" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598901192901" />
+    <state width="1865" height="313" key="GridCell.Tab.1.right" timestamp="1598901192901">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1865" height="313" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598901192901" />
+    <state x="352" y="0" key="SettingsEditor" timestamp="1599678545681">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="352" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599678545681" />
+    <state x="615" y="399" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598886863424">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="615" y="399" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1050@0.0.1920.1050" timestamp="1598886863424" />
+    <state x="560" y="50" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598993684389">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="50" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1598993684389" />
+    <state x="532" y="239" key="run.anything.popup" timestamp="1598901508552">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="239" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598901508552" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1598993743851">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598993743851" />
+  </component>
+</project>
